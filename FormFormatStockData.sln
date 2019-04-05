@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormFormatStockData", "FormFormatStockData\FormFormatStockData.csproj", "{DC12DC4C-D97D-499D-B3E7-C9F8A5DEBAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooFinanceDbContext", "..\..\source\repos\YahooFinanceDbContext\YahooFinanceDbContext\YahooFinanceDbContext.csproj", "{AFC7459D-793A-40D6-B990-077EFE2820C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC12DC4C-D97D-499D-B3E7-C9F8A5DEBAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC12DC4C-D97D-499D-B3E7-C9F8A5DEBAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC12DC4C-D97D-499D-B3E7-C9F8A5DEBAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC12DC4C-D97D-499D-B3E7-C9F8A5DEBAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC7459D-793A-40D6-B990-077EFE2820C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC7459D-793A-40D6-B990-077EFE2820C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC7459D-793A-40D6-B990-077EFE2820C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC7459D-793A-40D6-B990-077EFE2820C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809468A8-23DE-458E-BC88-AED75D19F024}
+	EndGlobalSection
+EndGlobal
