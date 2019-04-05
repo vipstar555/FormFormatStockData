@@ -1,0 +1,2 @@
+# FormFormatStockData
+FinanceDBから株価データを整形してGUIで表示するプログラム（後々CSV出力とか付けたい）
